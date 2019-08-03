@@ -29,4 +29,4 @@ For this assignment, you'll create some initial plans for your project.
 
 (Include a link to your project on GitHub)
 
-[Project Repo - Practice Tracker](https://github.com/rdubois46/CapstoneRCD)
+[Project Repo - Practice Tracker](https://github.com/rdubois46/Capstone-PracticeTrack)

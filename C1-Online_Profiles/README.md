@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+[GitHub profile](https://github.com/rdubois46)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[LinkedIn profile](https://www.linkedin.com/in/ryan-dubois-8a097b190/)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
